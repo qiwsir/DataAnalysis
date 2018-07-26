@@ -22,7 +22,7 @@
 
 小程序名称：跟老齐学
 
-<img src="https://github.com/qiwsir/DjangoPracticeProject/blob/master/smallprogramming.jpg" width=200 height=200 />
+<img src="./smallprogramming.jpg" width=200 height=200 />
 
 ## Python学习资源推荐：
 
@@ -30,7 +30,7 @@
 - 鄙人的在线课程：[Python3入门和能力提升](https://www.cctalk.com/m/course/111302)
 - [《跟老齐学Python》系列图书](http://itdiffer.com/article/37)，各大网店和书店有售
 
-<img src='./smallpythonbook3.png' width="50%" heiht="50%")
+<img src='./smallpythonbook3.png' width="50%" heiht="50%"/>
 
 本书由【电子工业出版社】出版，其[天猫旗舰店](https://detail.tmall.com/item.htm?spm=a230r.1.14.34.1b6b7012FYy4G1&id=571483296637&ns=1&abbucket=17&ybhpss=c3VicGxhdD13ZWlibyZwYWdlPXNob3BfaW5kZXgmY3BpZD0wJmNudGlkPTAmcHVpZD0xNDQ5NDgyMjgzJnBndWlkPTEmdHM9MTUzMDkzMDYwMCZjaGFubmVsPTAsMCZpdGVtX2lkPTU3MTQ4MzI5NjYzNyZwaXRlbWlkPTIxODAxNTMwNjE1ODM0MDAwMDc0MDExNSYmbGFiZWw9d2VpYm9fY2NfYnV5)有售。
 
