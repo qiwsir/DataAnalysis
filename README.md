@@ -18,11 +18,9 @@
 
 再次提醒：对入群收费1元，有异议者请不要加入。
 
-## 本书配套小程序
+## 本书配套微信公众号：老齐教室
 
-小程序名称：跟老齐学
-
-<img src="./smallprogramming.jpg" width=200 height=200 />
+<img src="./images/account.jpeg" />
 
 ## Python学习资源推荐：
 
