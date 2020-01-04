@@ -20,7 +20,7 @@
 
 ## 本书配套微信公众号：老齐教室
 
-<img src="./images/account.jpeg" />
+<img src="./images/account.jpg" />
 
 ## Python学习资源推荐：
 
